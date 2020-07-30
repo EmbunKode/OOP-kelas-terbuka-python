@@ -4,4 +4,4 @@
 diciptakan adalah untuk mempermudah pengembangan program dengan cara mengikuti model yang telah ada di kehidupan sehari-hari.
 
 ### Introduction OOP python
-![Introduction OOP]()
+![Introduction OOP](image/introduction-OOP.jpg)
